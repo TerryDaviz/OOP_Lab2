@@ -1,0 +1,13 @@
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
