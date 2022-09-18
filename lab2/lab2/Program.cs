@@ -11,6 +11,15 @@ namespace lab2
             Console.WriteLine(s.TopValue);
             Stck s2 = new Stck(4, 5.0);
             Console.WriteLine(s2[0]);
+            s2.RemoveFromStack();
+            s2.TopValue = 3.5;
+            s2.TopValue = 5.5;
+            double newValue = 5.6;
+            s2.ChangeTopValue(ref newValue);
+            string strValue = "4,4";
+            s2.AddStringValue(ref strValue);
+            s2.AddConvertedCharValue('a', out double bro);
+            s2.ShowStack();
         }
 
         internal class Stck
@@ -87,6 +96,37 @@ namespace lab2
                 Console.WriteLine("class information:\n" +
                     "total amount of class instances: " + objectCounter
                     + "\ncontaner: " + container);
+            }
+
+            public void AddConvertedCharValue(char charValue, out double newcharValue)
+            {
+                newcharValue = (double)charValue;
+                this.stack.Add(charValue);
+            }
+
+            public void AddStringValue(ref string strValue)
+            {
+                this.stack.Add(Convert.ToDouble(strValue));
+            }
+
+            public void ChangeTopValue(ref double newValue)
+            {
+                this.stack[^1] = newValue;
+            }
+
+            public List<double> RemoveFromStack()
+            {
+                this.stack.RemoveAt(this.stack.Count - 1);
+                return this.stack;
+            }
+
+            public void ShowStack()
+            {
+                this.stack.Reverse();
+                foreach (double f in this.stack)
+                {
+                    Console.Write("\n" + f);
+                }
             }
         }
     }
