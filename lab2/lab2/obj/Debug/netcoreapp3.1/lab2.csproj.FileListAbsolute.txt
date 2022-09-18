@@ -11,3 +11,4 @@ C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csp
 C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
 C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
 C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
+C:\Users\Ilya\Desktop\lab\C#\OOP_Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
