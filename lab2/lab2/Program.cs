@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace lab2
 {
-    internal class Program
+    public partial class Program
     {
         private static void Main(string[] args)
         {
@@ -64,9 +64,13 @@ namespace lab2
                 Console.WriteLine("\n\n");
                 x.ShowStack();
             }
+
+            Console.WriteLine("Anonnymous type");
+            var anon = new { TopValue = 5, Container = "List", Objectcounter = 5, Id = 12 };
+            Console.WriteLine(anon.GetType());
         }
 
-        private partial class Stck
+        public partial class Stck
         {
             private const string container = "List";
             private static int objectCounter;
